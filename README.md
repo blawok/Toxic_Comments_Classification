@@ -6,4 +6,9 @@ In this project we analyzed toxic comment dataset from Kaggle challenge - https:
 
 We perform EDA and modelling of BiGRU in [this notebook](https://github.com/blawok/Toxic_Comments_Classification/blob/master/toxic_comments.ipynb).
 
-However, recently I came across a great example of using BERT for this problem. Code for it can be found [here](https://github.com/blawok/Toxic_Comments_Classification/blob/master/toxic_cnn_bert.ipynb)
+Screenshot from [Embedding Projector](https://projector.tensorflow.org/) for our embeddings:
+
+![murderous](https://user-images.githubusercontent.com/41793223/81406096-3f563880-9139-11ea-9401-3b32f2a4f27d.JPG)
+
+
+However, recently, I came across a great example of using BERT for this problem. Code for it can be found [here](https://github.com/blawok/Toxic_Comments_Classification/blob/master/toxic_cnn_bert.ipynb)
